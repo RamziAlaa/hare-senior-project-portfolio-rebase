@@ -1,0 +1,6 @@
+{
+    "levelname": "Test",
+    "devname": "Level-Test",
+    "tilemap": "Assets/Levels/Level-Test/Level-Test-Tilemap.json",
+    "tileset": "Assets/Levels/Level-Test/Level-Test-Tileset.json"
+}

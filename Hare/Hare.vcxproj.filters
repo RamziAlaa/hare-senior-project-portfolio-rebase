@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cell.cpp">
+      <Filter>Source files\Cellular Automata %28Unused%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Debug.cpp">
+      <Filter>Source files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source files\World</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Simulation.cpp">
+      <Filter>Source files\Cellular Automata %28Unused%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Source files\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureManager.cpp">
+      <Filter>Source files\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Source files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>Source files\States</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Music.cpp">
+      <Filter>Source files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Source files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicManager.cpp">
+      <Filter>Source files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="EventHandler.cpp">
+      <Filter>Source files\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Source files\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyboardEvent.cpp">
+      <Filter>Source files\Events\Event Types</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayState.cpp">
+      <Filter>Source files\States\State Types</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerController.cpp">
+      <Filter>Source files\Events\Event Types</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonManager.cpp">
+      <Filter>Source files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap.cpp">
+      <Filter>Source files\World</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source files\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2.cpp">
+      <Filter>Source files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Source files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="RectStuff.cpp">
+      <Filter>Source files\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>Source files\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicEnemy.cpp">
+      <Filter>Source files\Game\Entities\BasicEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source files\Game\Entities\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicEnemyAI.cpp">
+      <Filter>Source files\Game\Entities\BasicEnemy</Filter>
+    </ClCompile>
+    <ClCompile Include="EntityManager.cpp">
+      <Filter>Source files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source files\Game\Entities\Bullet</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cell.h">
+      <Filter>Header files\Cellular Automata %28Unused%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>Header files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header files\World</Filter>
+    </ClInclude>
+    <ClInclude Include="Simulation.h">
+      <Filter>Header files\Cellular Automata %28Unused%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Header files\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureManager.h">
+      <Filter>Header files\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Header files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="State.h">
+      <Filter>Header files\States</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Music.h">
+      <Filter>Header files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicManager.h">
+      <Filter>Header files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Header files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="EventHandler.h">
+      <Filter>Header files\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Header files\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyboardEvent.h">
+      <Filter>Header files\Events\Event Types</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayState.h">
+      <Filter>Header files\States\State Types</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerController.h">
+      <Filter>Header files\Events\Event Types</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonManager.h">
+      <Filter>Header files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>Header files\World</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header files\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Header files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>Header files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="RectStuff.h">
+      <Filter>Header files\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Line.h">
+      <Filter>Header files\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicEnemy.h">
+      <Filter>Header files\Game\Entities\BasicEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header files\Game\Entities\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="BasicEnemyAI.h">
+      <Filter>Header files\Game\Entities\BasicEnemy</Filter>
+    </ClInclude>
+    <ClInclude Include="EntityManager.h">
+      <Filter>Header files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Header files\Game\Entities\Bullet</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{d364dbb3-ff22-4e18-bdf8-9b7b9e1bec6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{eb5fb455-5fdb-49bb-a03b-c5c8fb12bd62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Core">
+      <UniqueIdentifier>{75a820c7-5559-420a-abb9-71c679e399e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Core">
+      <UniqueIdentifier>{2e9dbd9a-95f5-46cc-a1ae-12faa6aad962}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\World">
+      <UniqueIdentifier>{9cf6e272-5952-432c-b0c8-636ea020c4d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\World">
+      <UniqueIdentifier>{fa0f79ad-6c22-4cb9-a0c9-e1796850f19e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\States">
+      <UniqueIdentifier>{7ce45766-3526-483f-808a-951002592728}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\States">
+      <UniqueIdentifier>{0892277f-1974-419a-947a-eb9bfb95e9df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Rendering">
+      <UniqueIdentifier>{3b3b0940-6f00-4781-a301-637bbe1df3e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Rendering">
+      <UniqueIdentifier>{70a1917a-84cc-4198-825d-fd83224a59b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Sound">
+      <UniqueIdentifier>{da36c17b-b771-42a5-a631-964d64cbc873}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Sound">
+      <UniqueIdentifier>{5c9c3711-fa78-41e9-976a-1912d7172097}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Events">
+      <UniqueIdentifier>{edd719b2-920d-4944-b3ec-2279c1967ee5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Events">
+      <UniqueIdentifier>{8e81b272-7925-4481-b794-5ce211b6a830}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Events\Event Types">
+      <UniqueIdentifier>{533dc39a-fed6-48c3-95d3-f2fde30730a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Events\Event Types">
+      <UniqueIdentifier>{e3fb5060-7084-415e-9342-5d5d8b073e90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\States\State Types">
+      <UniqueIdentifier>{6ea5e076-5025-4942-a8ef-b7fb586e9428}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\States\State Types">
+      <UniqueIdentifier>{6e512368-ff88-4835-b7a6-f2bb5c7ec8d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Game">
+      <UniqueIdentifier>{72fcb9df-60cf-4ef0-a7c5-dcb201fe8638}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Game">
+      <UniqueIdentifier>{7ede6dfc-5f5c-4edb-bfb6-51954ed9ba93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Game\Entities">
+      <UniqueIdentifier>{1dd02823-f789-4475-b361-ec3d9402f19c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Game\Entities">
+      <UniqueIdentifier>{0ee3ea6f-4759-4ec0-94e4-7ac7bb0cdce4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Cellular Automata %28Unused%29">
+      <UniqueIdentifier>{2e2c7917-8e53-4455-9c8c-66eef9069421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Cellular Automata %28Unused%29">
+      <UniqueIdentifier>{c2002c0c-2689-4f70-acdc-b8d8cdabaa12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Game\Entities\BasicEnemy">
+      <UniqueIdentifier>{ba58ae9f-dadf-4246-a9ad-ed3f20f1ad7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Game\Entities\Player">
+      <UniqueIdentifier>{689a1f82-232a-4812-9873-424344599476}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Game\Entities\BasicEnemy">
+      <UniqueIdentifier>{3da5c594-b48b-429d-b89c-cf3a4e367454}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Game\Entities\Player">
+      <UniqueIdentifier>{2fc33866-d1c8-4442-95f0-1de14bc0929d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source files\Game\Entities\Bullet">
+      <UniqueIdentifier>{f377e3c9-9ce8-41b3-889a-7d883e02fb0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header files\Game\Entities\Bullet">
+      <UniqueIdentifier>{ea55f1b2-f921-46ed-b139-085ddf607c44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
